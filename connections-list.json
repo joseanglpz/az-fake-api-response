@@ -1,0 +1,54 @@
+{
+    "success": true,
+    "data": [
+        {
+            "id": "1",
+            "channelName": "Amazon",
+            "channelType": "marketplace",
+            "accountName": "MyStore Amazon Account",
+            "dateLinked": "2023-01-10",
+            "status": "active",
+            "authMethod": "api_key",
+            "lastSync": "2024-01-15 14:30",
+            "orders": 1250,
+            "revenue": "$45,230"
+        },
+        {
+            "id": "2",
+            "channelName": "eBay",
+            "channelType": "marketplace",
+            "accountName": "MyStore eBay Shop",
+            "dateLinked": "2022-11-05",
+            "status": "inactive",
+            "authMethod": "oauth",
+            "lastSync": "2024-01-10 09:15",
+            "orders": 890,
+            "revenue": "$23,450"
+        },
+        {
+            "id": "3",
+            "channelName": "Shopify",
+            "channelType": "ecommerce",
+            "accountName": "MyStore Official",
+            "dateLinked": "2023-03-20",
+            "status": "active",
+            "authMethod": "api_key",
+            "lastSync": "2024-01-15 16:45",
+            "orders": 2100,
+            "revenue": "$78,920"
+        },
+        {
+            "id": "4",
+            "channelName": "Walmart",
+            "channelType": "marketplace",
+            "accountName": "MyStore Walmart",
+            "dateLinked": "2022-09-12",
+            "status": "error",
+            "authMethod": "api_key",
+            "lastSync": "2024-01-12 11:20",
+            "orders": 567,
+            "revenue": "$18,340"
+        }
+    ],
+    "total": 4
+}
