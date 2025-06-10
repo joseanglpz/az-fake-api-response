@@ -1,0 +1,96 @@
+{
+    "success": true,
+    "data": [
+        {
+            "id": 1,
+            "name": "Premium Analytics Dashboard",
+            "price": 299,
+            "category": "Analytics",
+            "description": "Advanced analytics with real-time reporting and custom dashboards",
+            "features": [
+                "Real-time data",
+                "Custom dashboards",
+                "Export reports",
+                "24/7 support"
+            ],
+            "image": "https://images.pexels.com/photos/265087/pexels-photo-265087.jpeg?auto=compress&cs=tinysrgb&w=400",
+            "status": "active"
+        },
+        {
+            "id": 2,
+            "name": "Cloud Storage Pro",
+            "price": 149,
+            "category": "Storage",
+            "description": "Secure cloud storage with unlimited bandwidth and file sharing",
+            "features": [
+                "Unlimited storage",
+                "File sharing",
+                "Version control",
+                "Mobile access"
+            ],
+            "image": "https://images.pexels.com/photos/1181244/pexels-photo-1181244.jpeg?auto=compress&cs=tinysrgb&w=400",
+            "status": "active"
+        },
+        {
+            "id": 3,
+            "name": "Team Collaboration Suite",
+            "price": 199,
+            "category": "Productivity",
+            "description": "Complete collaboration platform with chat, video calls, and project management",
+            "features": [
+                "Team chat",
+                "Video conferencing",
+                "Project tracking",
+                "File collaboration"
+            ],
+            "image": "https://images.pexels.com/photos/3184292/pexels-photo-3184292.jpeg?auto=compress&cs=tinysrgb&w=400",
+            "status": "active"
+        },
+        {
+            "id": 4,
+            "name": "API Gateway Enterprise",
+            "price": 399,
+            "category": "Development",
+            "description": "Enterprise-grade API management with monitoring and security",
+            "features": [
+                "API monitoring",
+                "Rate limiting",
+                "Security policies",
+                "Analytics"
+            ],
+            "image": "https://images.pexels.com/photos/1181271/pexels-photo-1181271.jpeg?auto=compress&cs=tinysrgb&w=400",
+            "status": "active"
+        },
+        {
+            "id": 5,
+            "name": "Customer Support Platform",
+            "price": 179,
+            "category": "Support",
+            "description": "Comprehensive customer support with ticketing and live chat",
+            "features": [
+                "Live chat",
+                "Ticket management",
+                "Knowledge base",
+                "Analytics"
+            ],
+            "image": "https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?auto=compress&cs=tinysrgb&w=400",
+            "status": "active"
+        },
+        {
+            "id": 6,
+            "name": "Marketing Automation Hub",
+            "price": 249,
+            "category": "Marketing",
+            "description": "All-in-one marketing automation with email campaigns and lead tracking",
+            "features": [
+                "Email campaigns",
+                "Lead scoring",
+                "A/B testing",
+                "CRM integration"
+            ],
+            "image": "https://images.pexels.com/photos/3184360/pexels-photo-3184360.jpeg?auto=compress&cs=tinysrgb&w=400",
+            "status": "active"
+        }
+    ],
+    "total": 6
+}
